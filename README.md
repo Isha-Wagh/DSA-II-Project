@@ -14,28 +14,29 @@ This project demonstrates Operating Systems, Web Systems, and Data Structures & 
 - **Configurable & Scalable:** Cache capacity adjustable at runtime.
 
 ## Project Folder Structure
-'''
+```
 SMART_WEB_CACHE/
 │
-├── include/ # Header files
-│ ├── URLShortener.h
-│ ├── LRUCache.h
-│ ├── WebFetcher.h
-│ └── Validator.h
+├── include/           # Header files
+│   ├── URLShortener.h
+│   ├── LRUCache.h
+│   ├── WebFetcher.h
+│   └── Validator.h
 │
-├── src/ # Source files
-│ ├── main.cpp
-│ ├── URLShortener.cpp
-│ ├── LRUCache.cpp
-│ ├── WebFetcher.cpp
-│ └── Validator.cpp
+├── src/               # Source files
+│   ├── main.cpp
+│   ├── URLShortener.cpp
+│   ├── LRUCache.cpp
+│   ├── WebFetcher.cpp
+│   └── Validator.cpp
 │
-├── build/ # Persistence (auto-created)
-│ ├── url_mappings.txt
-│ └── cache_dump.txt
+├── build/             # Persistence (auto-created)
+│   ├── url_mappings.txt
+│   └── cache_dump.txt
 │
 └── CMakeLists.txt
-'''
+```
+
 
 
 
