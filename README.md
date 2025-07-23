@@ -14,7 +14,7 @@ This project demonstrates Operating Systems, Web Systems, and Data Structures & 
 - **Configurable & Scalable:** Cache capacity adjustable at runtime.
 
 ## Project Folder Structure
-
+'''
 SMART_WEB_CACHE/
 │
 ├── include/ # Header files
@@ -35,8 +35,7 @@ SMART_WEB_CACHE/
 │ └── cache_dump.txt
 │
 └── CMakeLists.txt
-
-undefined
+'''
 
 
 
